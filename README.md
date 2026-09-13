@@ -43,3 +43,13 @@ Object-Oriented Programming • DBMS • Data Structures • Problem Solving
 - 🌐 Web Technologies
 - 🧩 Data Structures & Algorithms
 - 🔧 Building practical projects
+
+## 🤝 Let's Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/shreya-choudhary-8b8b41258)
+
+📧 [Email](shreyacsandi@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile!
