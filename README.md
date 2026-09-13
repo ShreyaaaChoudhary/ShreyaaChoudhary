@@ -36,8 +36,8 @@ MySQL
 ### Frameworks
 React . Node.js . Bootstrap
 
-### Tools
-Git • GitHub • VS Code
+### Tools and Platforms
+Git • GitHub • VS Code . MongoDB . Docker .FireBase
 
 ### Core Concepts
 Object-Oriented Programming • DBMS • Data Structures • Problem Solving
