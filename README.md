@@ -28,10 +28,13 @@ National Institute of Technology Patna| 2022 – 2026
 ## 🛠️ Tech Stack
 
 ### Languages
-Java • Python • SQL • HTML • CSS
+• Python • SQL • HTML • CSS . Javascript
 
 ### Database
 MySQL
+
+### Frameworks
+React . Node.js . Bootstrap
 
 ### Tools
 Git • GitHub • VS Code
