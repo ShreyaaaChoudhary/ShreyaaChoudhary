@@ -22,7 +22,7 @@ breaking things, fixing them, and building something better.
 ## 🎓 Education
 
 **Bachelor of Technology (B.Tech) — Computer Science & Engineering**  
-Your College Name | 2022 – 2026
+National Institute of Technology Patna| 2022 – 2026
 
 
 ## 🛠️ Tech Stack
